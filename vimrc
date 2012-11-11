@@ -70,3 +70,8 @@ set foldlevel=99
 
 "colorscheme
 colorscheme miromiro
+
+"关闭文件备份
+set nobackup
+set nowritebackup
+set noswapfile
