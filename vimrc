@@ -67,3 +67,6 @@ endif
 autocmd FileType python setlocal foldmethod=indent
 "默认展开所有代码
 set foldlevel=99
+
+"colorscheme
+colorscheme miromiro
