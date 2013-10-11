@@ -14,3 +14,6 @@
 ================
     在~/.vim/.gitmodules和~/.vim/.git/config中删除插件
     git rm --cached bundle/插件名
+
+
+abc
